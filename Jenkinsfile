@@ -2,3 +2,4 @@
 
 env.COMPONENT="catalogue"
 env.APPTYPE="nodejs"
+nodejs()
